@@ -1,5 +1,5 @@
 "# simple-html-on-nginx" 
-This docker image simply just host two html pages on nginx: index.html and about.html 
+Very simple project to show "How you can start with simple nginx image and then deploy your customer HTML page on it"
 >> This git hub respository holds following files: 
 >> 1. index.html
 >> 2. about.html
